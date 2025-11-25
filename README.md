@@ -1,26 +1,18 @@
-Food Order Management System
+# Food Order Management System
 A Java-based console application for managing restaurant food orders with complete CRUD operations and file-based data persistence.
 
-Features
-Order Management: Create, read, update, and delete food orders
+Features -
+1)Order Management: Create, read, update, and delete food orders
+2)Menu System: Interactive console-based interface
+3)Data Persistence: Automatic file-based storage of orders
+4)Input Validation: Robust error handling and user input validation
+5)Order Tracking: Comprehensive order history management
 
-Menu System: Interactive console-based interface
-
-Data Persistence: Automatic file-based storage of orders
-
-Input Validation: Robust error handling and user input validation
-
-Order Tracking: Comprehensive order history management
-
-Technologies Used
+Technologies Used-
 Java SE 8+
-
 Object-Oriented Programming
-
 File I/O Operations
-
 Collections Framework
-
 Exception Handling
 
 Project Structure
@@ -32,64 +24,38 @@ food_order/
 Installation
 Clone the repository
 
-bash
-git clone https://github.com/DAKSH2305/vityarthi_project_java.git
-cd vityarthi_project_java/food_order
-Compile the Java files
 
-bash
-javac *.java
-Run the application
+ https://github.com/DAKSH2305/vityarthi_project_java.git
 
-bash
-java FoodOrderManagement
-Usage
+Usage -
 After starting the application, you'll see a menu with the following options:
-
 View all orders
-
 Add new order
-
 Update existing order
-
 Delete order
-
 Search orders
-
 Exit system
 
-Follow the on-screen prompts to manage food orders. All data is automatically saved to a file for persistence.
-
 Class Overview
-FoodOrder.java
-Represents a food order with properties like order ID, customer name, items, and total amount. Includes constructors, getters/setters, and utility methods.
+FoodOrder.java Represents a food order with properties like order ID, customer name, items, and total amount. Includes constructors, getters/setters, and utility methods.
 
 FoodOrderManagement.java
 Main application class that handles:
+1)User interface and menu navigation
+2)Order CRUD operations
+3)File I/O for data persistence
+4)Input validation and error handling
 
-User interface and menu navigation
-
-Order CRUD operations
-
-File I/O for data persistence
-
-Input validation and error handling
-
-Development
+Development :
 This project demonstrates:
 
-Object-oriented design principles
+1)Object-oriented design principles
+2)File handling and data persistence
+3)Collection management with ArrayList
+4)Console-based user interfaces
+5)Comprehensive exception handling
 
-File handling and data persistence
 
-Collection management with ArrayList
-
-Console-based user interfaces
-
-Comprehensive exception handling
-
-Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements.
 Output :
 
 
