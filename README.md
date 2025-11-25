@@ -3,9 +3,13 @@ A Java-based console application for managing restaurant food orders with comple
 
 #Features -
 1)Order Management: Create, read, update, and delete food orders
+
 2)Menu System: Interactive console-based interface
+
 3)Data Persistence: Automatic file-based storage of orders
+
 4)Input Validation: Robust error handling and user input validation
+
 5)Order Tracking: Comprehensive order history management
 
 #Technologies Used-
@@ -30,10 +34,15 @@ Clone the repository
 #Usage -
 After starting the application, you'll see a menu with the following options:
 View all orders
+
 Add new order
+
 Update existing order
+
 Delete order
+
 Search orders
+
 Exit system
 
 #Class Overview
@@ -42,8 +51,11 @@ FoodOrder.java Represents a food order with properties like order ID, customer n
 FoodOrderManagement.java
 #Main application class that handles:
 1)User interface and menu navigation
+
 2)Order CRUD operations
+
 3)File I/O for data persistence
+
 4)Input validation and error handling
 
 #Development :
