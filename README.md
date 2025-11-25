@@ -2,6 +2,7 @@
 A Java-based console application for managing restaurant food orders with complete CRUD operations and file-based data persistence.
 
 #Features -
+
 1)Order Management: Create, read, update, and delete food orders
 
 2)Menu System: Interactive console-based interface
@@ -14,13 +15,18 @@ A Java-based console application for managing restaurant food orders with comple
 
 #Technologies Used-
 Java SE 8+
+
 Object-Oriented Programming
+
 File I/O Operations
+
 Collections Framework
+
 Exception Handling
 
 Project Structure
 text
+
 food_order/
 ├── FoodOrder.java           # Food order entity class
 ├── FoodOrderManagement.java # Main application controller
@@ -50,6 +56,7 @@ FoodOrder.java Represents a food order with properties like order ID, customer n
 
 FoodOrderManagement.java
 #Main application class that handles:
+
 1)User interface and menu navigation
 
 2)Order CRUD operations
@@ -62,9 +69,13 @@ FoodOrderManagement.java
 This project demonstrates:
 
 1)Object-oriented design principles
+
 2)File handling and data persistence
+
 3)Collection management with ArrayList
+
 4)Console-based user interfaces
+
 5)Comprehensive exception handling
 
 
