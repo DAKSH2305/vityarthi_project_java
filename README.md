@@ -1,14 +1,14 @@
 # Food Order Management System
 A Java-based console application for managing restaurant food orders with complete CRUD operations and file-based data persistence.
 
-Features -
+#Features -
 1)Order Management: Create, read, update, and delete food orders
 2)Menu System: Interactive console-based interface
 3)Data Persistence: Automatic file-based storage of orders
 4)Input Validation: Robust error handling and user input validation
 5)Order Tracking: Comprehensive order history management
 
-Technologies Used-
+#Technologies Used-
 Java SE 8+
 Object-Oriented Programming
 File I/O Operations
@@ -27,7 +27,7 @@ Clone the repository
 
  https://github.com/DAKSH2305/vityarthi_project_java.git
 
-Usage -
+#Usage -
 After starting the application, you'll see a menu with the following options:
 View all orders
 Add new order
@@ -36,17 +36,17 @@ Delete order
 Search orders
 Exit system
 
-Class Overview
+#Class Overview
 FoodOrder.java Represents a food order with properties like order ID, customer name, items, and total amount. Includes constructors, getters/setters, and utility methods.
 
 FoodOrderManagement.java
-Main application class that handles:
+#Main application class that handles:
 1)User interface and menu navigation
 2)Order CRUD operations
 3)File I/O for data persistence
 4)Input validation and error handling
 
-Development :
+#Development :
 This project demonstrates:
 
 1)Object-oriented design principles
